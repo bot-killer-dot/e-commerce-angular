@@ -1,6 +1,6 @@
 ## e-commerce-angular
 
-I Built a e-commerce app that will allow the user to view different items and it's details and add them the cart.  
+It's an e-commerce app that will allow the user to view different items and it's details and add them to the cart.  
 
 ![screenshot](./src/assets/ss.png)
 
