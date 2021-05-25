@@ -9,6 +9,11 @@ It's an e-commerce app that will allow the user to view different items and it's
 - Angular
 - TypeScript
 
+## Live Demo Link
+
+[Project live website](https://e-commerce-app-a275c.web.app/)
+
+
 ## Getting Started
 
 **To get started you can download the code by pressing in the top right corner on the green button**
